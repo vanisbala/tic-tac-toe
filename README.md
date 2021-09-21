@@ -25,7 +25,15 @@ Its a famous game played by two players and the one who completes straight X or 
 - Dynamic two dimentional array handling and interactions with DOM.
 
 ## Installation
-git clone https://github.com/vanisbala/tic-tac-toe
+- Download this project in your working directory through, \
+git clone git clone https://github.com/vanisbala/tic-tac-toe
+- Open tic-tac-toe project in VScode, go to index.html, right click and select 'open in default browser'.
+- The project output will open in your browser.
+- Enter the matrix size you want to create and submit.
+- Now you can play the game.
+- It will display who won or the game ended in draw.
+- You can clear the contents and restart the game.
+
 
 ## Built with
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
